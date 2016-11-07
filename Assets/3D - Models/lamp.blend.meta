@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 23c5a85e226589c45b5221a95b420e1d
+timeCreated: 1477443423
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle01
+    100002: Circle02
+    100004: Donut01
+    100006: Donut02
+    100008: for_lamp_0
+    100010: for_lamp_1
+    100012: for_lamp_2
+    100014: //RootNode
+    100016: lamp
+    100018: Line01
+    100020: Line02
+    100022: Rectangle0
+    100024: Rectangle1
+    100026: Rectangle2
+    100028: Rectangle3
+    100030: Rectangle4
+    100032: Rectangle5
+    100034: Rectangle6
+    100036: Rectangle7
+    400000: Circle01
+    400002: Circle02
+    400004: Donut01
+    400006: Donut02
+    400008: for_lamp_0
+    400010: for_lamp_1
+    400012: for_lamp_2
+    400014: //RootNode
+    400016: lamp
+    400018: Line01
+    400020: Line02
+    400022: Rectangle0
+    400024: Rectangle1
+    400026: Rectangle2
+    400028: Rectangle3
+    400030: Rectangle4
+    400032: Rectangle5
+    400034: Rectangle6
+    400036: Rectangle7
+    2300000: Circle01
+    2300002: Circle02
+    2300004: Donut01
+    2300006: Donut02
+    2300008: for_lamp_0
+    2300010: for_lamp_1
+    2300012: for_lamp_2
+    2300014: lamp
+    2300016: Line01
+    2300018: Line02
+    2300020: Rectangle0
+    2300022: Rectangle1
+    2300024: Rectangle2
+    2300026: Rectangle3
+    2300028: Rectangle4
+    2300030: Rectangle5
+    2300032: Rectangle6
+    2300034: Rectangle7
+    3300000: Circle01
+    3300002: Circle02
+    3300004: Donut01
+    3300006: Donut02
+    3300008: for_lamp_0
+    3300010: for_lamp_1
+    3300012: for_lamp_2
+    3300014: lamp
+    3300016: Line01
+    3300018: Line02
+    3300020: Rectangle0
+    3300022: Rectangle1
+    3300024: Rectangle2
+    3300026: Rectangle3
+    3300028: Rectangle4
+    3300030: Rectangle5
+    3300032: Rectangle6
+    3300034: Rectangle7
+    4300000: Rectangle4
+    4300002: lamp
+    4300004: for_lamp_2
+    4300006: Rectangle2
+    4300008: Rectangle1
+    4300010: for_lamp_1
+    4300012: Circle02
+    4300014: Line02
+    4300016: for_lamp_0
+    4300018: Rectangle7
+    4300020: Rectangle5
+    4300022: Rectangle0
+    4300024: Donut02
+    4300026: Line01
+    4300028: Rectangle3
+    4300030: Circle01
+    4300032: Donut01
+    4300034: Rectangle6
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
